@@ -6,6 +6,6 @@ In this repository, I have developed several Jupyter notebooks that showcase com
 
 No Python? No problem. With Binder, you can run and interact with these notebooks in a fully executable environment. No Python installation required on your computer.
 
-<a href="https://mybinder.org/v2/gh/chris-kc-cheng/ftk-notebook/HEAD"><img alt='Jupyter' src='images/portfolio.png' /></a>
-
-Binder: https://mybinder.org/v2/gh/chris-kc-cheng/ftk-notebook/HEAD
+<a href="https://mybinder.org/v2/gh/chris-kc-cheng/ftk-notebook/HEAD"><img alt='Jupyter' src='images/portfolio.png' />
+👆 Click the image above to interact with the Jupyter notebooks via Binder.
+</a>
